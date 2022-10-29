@@ -649,9 +649,12 @@ section {
 /*--------------------------------------------------------------
 # About Us
 --------------------------------------------------------------*/
+.about {
+  background: url(../img/world.png) top/cover no-repeat;
+}
 .about .content {
   height: 680px;
-  background: url(../img/company_events.png) center/cover no-repeat;
+  background: url(../img/history.png) center/cover no-repeat;
 }
 
 .about .content h3 {
