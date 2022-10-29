@@ -874,6 +874,7 @@ section {
   display: block;
   background: none;
   border-radius: 0;
+  font-size: 16px;
 }
 
 .skills .progress .skill {
@@ -946,6 +947,10 @@ section {
 
 .services .icon-box:hover h4 a {
   color: #47b2e4;
+}
+
+.services .align-items-stretch {
+  margin-bottom: 24px;
 }
 
 /*--------------------------------------------------------------
