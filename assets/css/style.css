@@ -1301,8 +1301,9 @@ section {
 
 .pricing h4 span {
   color: #47b2e4;
-  font-size: 18px;
-  display: block;
+  display: inline;
+  font-size: 26px;
+  margin-left: 4px;
 }
 
 .pricing ul {
